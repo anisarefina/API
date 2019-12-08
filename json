@@ -1,0 +1,40 @@
+{
+  "result": [
+    {
+      "id": 1,
+      "name": "Beef",
+      "Position": "Beef is the culinary name for meat from cattle, particularly skeletal muscle. Humans have been eating beef since prehistoric times. Beef is a source of high-quality protein and essential nutrients.",
+      "Poster": "https://www.themealdb.com/images/category/beef.png"
+    },
+    {
+      "id": 2,
+      "name": "Chicken",
+      "Position": "Chicken is a type of domesticated fowl, a subspecies of the red junglefowl. It is one of the most common and widespread domestic animals, with a total population of more than 19 billion as of 2011. Humans commonly keep chickens as a source of food (consuming both their meat and eggs) and, more rarely, as pets.",
+      "Poster": "https://www.themealdb.com/images/category/chicken.png"
+    },
+    {
+      "id": 3,
+      "name": "Dessert",
+      "Position": "Dessert is a course that concludes a meal. The course usually consists of sweet foods, such as confections dishes or fruit, and possibly a beverage such as dessert wine or liqueur",
+      "Poster": "https://www.themealdb.com/images/category/dessert.png"
+    },
+    {
+      "id": 4,
+      "name": "Lamb",
+      "Position": "Lamb, hogget, and mutton are the meat of domestic sheep (species Ovis aries) at different ages.",
+      "Poster": "https://www.themealdb.com/images/category/lamb.png"
+    },
+    {
+      "id": 5,
+      "name": "Miscellaneous",
+      "Position": "General foods that don't fit into another category",
+      "Poster": "https://www.themealdb.com/images/category/miscellaneous.png"
+    },
+    {
+      "id": 6,
+      "name": "Pasta",
+      "Position": "Pasta is a staple food of traditional Italian cuisine, with the first reference dating to 1154 in Sicily. Also commonly used to refer to the variety of pasta dishes, pasta is typically a noodle made from an unleavened dough of a durum wheat flour mixed with water or eggs and formed into sheets or various shapes, then cooked by boiling or baking.",
+      "Poster": "https://www.themealdb.com/images/category/pasta.png"
+    }
+  ]
+}
